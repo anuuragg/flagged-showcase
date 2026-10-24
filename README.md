@@ -11,15 +11,14 @@ A real-time multiplayer flag guessing game. Create a room, share a code, race yo
 
 ## The app
 
-| Create a game, Lobby, Gameplay, Results | | |
-|---|---|---|
-![img-1](img/game-UI-1.png)
+**Create a game, Lobby, Gameplay, Results**
 
-| Chat, Friends, Alerts, Profile | | |
-|---|---|---|
-![img-2](img/game-UI-2.png)
+![Create a game, Lobby, Gameplay, Results](img/game-UI-1.png)
 
----
+**Chat, Friends, Alerts, Profile**
+
+![Chat, Friends, Alerts, Profile](img/game-UI-2.png)
+
 
 ## Built with
 
